@@ -1,2 +1,0 @@
-# trnil-CNsinSA
-Batch created
